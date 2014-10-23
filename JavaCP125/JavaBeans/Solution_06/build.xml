@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- ======================================================================= -->
+<!-- Project build script, imports the course build script.                  -->
+<!-- ======================================================================= -->
+<project name="06" default="jar" basedir=".">
+  <import file="../lib/build.xml"/>
+</project>
+
